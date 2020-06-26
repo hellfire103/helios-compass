@@ -1,0 +1,24 @@
+How to install
+==============
+
+1) Install a Python 3 compiler (e.g. Nuitka, WinPython, PyInstaller, etc.)
+
+2) Compile (the Python version is 3.6)
+
+3) Move to your programs folder:
+
+  - On Linux and some other UNIX-like systems, this should be '/usr/bin/'
+
+  - On Windows, Wine and ReactOS, this should be "C:\Windows\Helios Compass"
+
+  - On macOS (formerly Mac OS X), this should be "/Applications"
+
+4) If on a Windows PC, you will need to make an association to the program in the system registry
+
+  1) Go to Computer --> System Properties (or Win + Break) --> Advanced System Settings
+
+  2) Click the Environment Variables link (it's in the 'Advanced' tab)
+
+  3) Edit the PATH variable and add "C:\Windows\Helios Compass" to the end
+
+  4) Click "OK"
